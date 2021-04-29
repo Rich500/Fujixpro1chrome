@@ -12,6 +12,7 @@ Shadow: +1
 Color: +1
 Sharpness: 0
 Noise Reduction: -2
-White Balance: Auto, 0 Red & -1 Blue```
+White Balance: Auto, 0 Red & -1 Blue
+```
 
 from [fujiweekly](https://fujixweekly.com/2020/04/10/classic-chrome-for-those-who-dont-have-it-x-trans-i/)
